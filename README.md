@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-7977" alt="lokesh-7977" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [lokeshmedharametla.netlify.com](lokeshmedharametla.netlify.com)
 
 - 💬 Ask me about **JavaScript , TypeScript , React , NextJS , NodeJs , MongoDB , SQL**
 
