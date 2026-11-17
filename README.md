@@ -1,27 +1,20 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e75b6,100:00d4ff&height=200&section=header&text=Lokesh%20Medharametla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI-Native%20Systems&descAlignY=58&descSize=18" width="100%" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Building+AI-Native+Products+End+to+End;LLM+Agents+%E2%80%A2+RAG+%E2%80%A2+Real-time+AI+Streaming;Conversational+AI+that+feels+human;From+0+%E2%86%92+1+%E2%86%92+Production" alt="Typing intro" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/lokesh7977"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e75b6,100:00d4ff&height=160&section=header&text=Lokesh%20Medharametla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI-Native%20Systems&descAlignY=58&descSize=18" width="100%" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=40&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Building+AI-Native+Products+End+to+End;LLM+Agents+%E2%80%A2+RAG+%E2%80%A2+Real-time+AI+Streaming;Conversational+AI+that+feels+human;From+0+%E2%86%92+1+%E2%86%92+Production" alt="Typing intro" /></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/lokesh7977"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" /></a>
 <a href="mailto:lokeshchowdary902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/lokesh_7977"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://hashnode.com/@lokesh7977"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="https://leetcode.com/lokesh_medharametla"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.geeksforgeeks.org/user/lokesh_medharametla"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-
-<br/><br/>
-
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/📍_Hyderabad,_India-1a1b27?style=flat-square" />
 <img src="https://img.shields.io/badge/⚡_2%2B_Years_Shipping_Production-1a1b27?style=flat-square" />
 <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-1a1b27?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=lokesh-7977&label=Profile%20Views&color=00d4ff&style=flat-square" />
-
-</div>
+</p>
 
 ---
 
