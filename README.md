@@ -1,13 +1,13 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e75b6,100:00d4ff&height=160&section=header&text=Lokesh%20Medharametla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI-Native%20Systems&descAlignY=58&descSize=18" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e75b6,100:00d4ff&height=160&section=header&text=Lokesh%20Medharimetla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20AI-Native%20Systems&descAlignY=58&descSize=18" width="100%" /></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=40&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Building+AI-Native+Products+End+to+End;LLM+Agents+%E2%80%A2+RAG+%E2%80%A2+Real-time+AI+Streaming;Conversational+AI+that+feels+human;From+0+%E2%86%92+1+%E2%86%92+Production" alt="Typing intro" /></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/lokesh7977"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" /></a>
 <a href="mailto:lokeshchowdary902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/lokesh_7977"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://hashnode.com/@lokesh7977"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://leetcode.com/lokesh_medharametla"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/user/lokesh_medharametla"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://leetcode.com/lokesh-7977"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.geeksforgeeks.org/user/lokesh-7977"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/📍_Hyderabad,_India-1a1b27?style=flat-square" />
@@ -15,6 +15,44 @@
 <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-1a1b27?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=lokesh-7977&label=Profile%20Views&color=00d4ff&style=flat-square" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="360" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=00D4FF&multiline=true&width=360&height=120&lines=%3E+whoami;Full+Stack+Software+Engineer;%3E+currently;Shipping+AI-native+products+%E2%9A%A1" alt="terminal" />
+
+Hey there! 👋 I'm **Lokesh**, a **Full Stack Software Engineer** from **Hyderabad, India** 🇮🇳 with **2+ years** of experience shipping production software.
+
+I work at the point where **modern web engineering meets AI**. I build fast, scalable products with **LLM agents**, **RAG**, **conversational AI** and **real-time streaming**, and I design clean APIs and polished UIs around them.
+
+I care about the whole lifecycle: **architecture → backend → frontend → deployment → iteration**. I'd rather ship, measure and improve than over-plan.
+
+<br clear="right"/>
+
+- 🔭 &nbsp;Focused on **AI-native systems**: agents, retrieval and real-time AI experiences
+- 🌱 &nbsp;Going deeper into **system design**, **LLM evaluation** and **scalable AI infra**
+- 🧩 &nbsp;Love solving **hard engineering problems** with simple, maintainable solutions
+- ✍️ &nbsp;Writing about tech and engineering on **[Hashnode](https://hashnode.com/@lokesh7977)**
+- 🧠 &nbsp;Sharpening problem-solving on **LeetCode** and **GeeksforGeeks**
+- 💬 &nbsp;Ask me about **TypeScript, React, Next.js, Node.js, Python, FastAPI, LangGraph, RAG**
+- 📫 &nbsp;Reach me at **lokeshchowdary902@gmail.com**
+- ⚡ &nbsp;Fun fact: I debug better with chai ☕ than with coffee
+
+```ts
+const lokesh = {
+  role: "Full Stack Software Engineer",
+  location: "Hyderabad, India 🇮🇳",
+  experience: "2+ years",
+  code: ["TypeScript", "JavaScript", "Python", "Go", "Dart"],
+  frontend: ["React", "Next.js", "TanStack Start", "Flutter", "Tailwind"],
+  backend: ["Node.js", "Express", "FastAPI"],
+  ai: ["LangGraph", "RAG", "HNSW", "Conversational AI", "AI Streaming"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+  philosophy: "Ship fast. Build right. Iterate always.",
+  openTo: ["Full-time roles", "Founding engineer roles", "Freelance"],
+};
+```
 
 ---
 
@@ -140,7 +178,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Hiring+a+Full+Stack+%2B+AI+Engineer%3F;Building+an+AI-first+startup%3F;Let's+talk+%E2%80%94+I+reply+within+24+hours+%F0%9F%93%AC" alt="CTA" />
 
 <a href="mailto:lokeshchowdary902@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00D4FF?style=for-the-badge&logo=minutemailer&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/lokesh7977"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lokesh7977"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" /></a>
 
 </div>
 
